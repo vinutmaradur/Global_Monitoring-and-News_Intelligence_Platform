@@ -267,7 +267,7 @@ Most portfolio projects only cover CRUD apps.
     - Sentiment analysis
     - Anomaly detection
     - Risk analysis
-    - 
+      
 🏛️ Government / NGO Monitoring
 
 - Useful for:
