@@ -5,12 +5,12 @@ World Monitor collects and processes live global datasets from multiple APIs and
 
 The platform is designed for:
 
-🌎 Global event tracking
-📡 Real-time data visualization
-🛰️ Geospatial intelligence
-📈 Monitoring worldwide activities
-📰 News and disaster awareness
-📊 Data engineering + visualization learning
+🌎 Global event tracking </br>
+📡 Real-time data visualization </br>
+🛰️ Geospatial intelligence </br>
+📈 Monitoring worldwide activities </br>
+📰 News and disaster awareness </br>
+📊 Data engineering + visualization learning </br>
 
 ---
 
@@ -45,9 +45,9 @@ The platform is designed for:
 ---
 
 # Screenshot 📸
-![img_alt]()
-![img_alt]()
-![img_alt]()
+![img_alt](https://github.com/vinutmaradur/Global_Monitoring-and-News_Intelligence_Platform/blob/main/screenshot2.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Global_Monitoring-and-News_Intelligence_Platform/blob/main/screenshot1.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Global_Monitoring-and-News_Intelligence_Platform/blob/main/screenshot3.png?raw=true)
 
 ---
 
@@ -68,6 +68,49 @@ The platform is designed for:
 - Requests
 - JSON Processing
 - Scheduled ingestion scripts
+
+---
+
+# Project Structure 📂
+```bash
+WORLD-MONITOR
+│
+├── Backend
+│   ├── routers
+│   │   ├── countries.py
+│   │   ├── earthquake.py
+│   │   ├── news.py
+│   │   └── weather.py
+│   │
+│   ├── utils
+│   │   └── time_filter.py
+│   │
+│   ├── crud.py
+│   ├── database.py
+│   ├── init_db.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── seed_data.py
+│
+├── Data_Pipeline
+│   ├── crypto
+│   ├── Earthquake
+│   ├── news
+│   ├── weather
+│   ├── merge_data.py
+│   └── config.py
+│
+├── Frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── services
+│   │   └── assets
+│   └── package.json
+│
+└── data/raw
+  ```
 
 ---
 
