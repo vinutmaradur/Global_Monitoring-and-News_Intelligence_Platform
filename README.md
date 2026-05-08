@@ -18,29 +18,29 @@ The platform is designed for:
 🌍 Interactive 3D Globe
 - Real-time Earth visualization
 - Smooth navigation and zooming
-- Event markers plotted geographically
+- Event markers plotted geographically </br>
 🌋 Earthquake Monitoring
 - Live earthquake tracking
 - Magnitude-based visualization
 - Location-based filtering
-- Time-based filtering
+- Time-based filtering </br>
 🌦️ Weather Monitoring
 - City weather ingestion
 - Weather API integration
-- Temperature and condition visualization
+- Temperature and condition visualization </br>
 📰 Global News Feed
 - News aggregation from multiple APIs
 - RSS feed integration
-- Region/category-based news expansion
+- Region/category-based news expansion </br>
 💰 Cryptocurrency Monitoring
 - Live crypto market data
 - Multi-coin tracking
-- Future-ready analytics support
+- Future-ready analytics support </br>
 🔄 Data Pipelines
 - Automated ingestion scripts
 = JSON transformation
 - Data merging workflows
-- Database loading utilities
+- Database loading utilities 
 
 ---
 
