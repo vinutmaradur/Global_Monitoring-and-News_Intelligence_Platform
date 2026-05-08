@@ -1,0 +1,258 @@
+[
+    {
+        "city": "Dubai",
+        "temperature": 36.96,
+        "weather": "clear sky",
+        "humidity": 20,
+        "lat": 25.258169,
+        "lon": 55.304722
+    },
+    {
+        "city": "Abu Dhabi",
+        "temperature": 34.01,
+        "weather": "clear sky",
+        "humidity": 38,
+        "lat": 24.466669,
+        "lon": 54.366669
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": 37.21,
+        "weather": "thunderstorm",
+        "humidity": 23,
+        "lat": 17.385,
+        "lon": 78.4867
+    },
+    {
+        "city": "Pune",
+        "temperature": 36.67,
+        "weather": "broken clouds",
+        "humidity": 17,
+        "lat": 18.519569,
+        "lon": 73.855347
+    },
+    {
+        "city": "Chennai",
+        "temperature": 32.41,
+        "weather": "broken clouds",
+        "humidity": 65,
+        "lat": 13.08784,
+        "lon": 80.278473
+    },
+    {
+        "city": "Delhi",
+        "temperature": 41.05,
+        "weather": "clear sky",
+        "humidity": 15,
+        "lat": 28.666668,
+        "lon": 77.216667
+    },
+    {
+        "city": "Kolkata",
+        "temperature": 34.97,
+        "weather": "haze",
+        "humidity": 63,
+        "lat": 22.569719,
+        "lon": 88.36972
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 34.99,
+        "weather": "smoke",
+        "humidity": 52,
+        "lat": 19.01441,
+        "lon": 72.847939
+    },
+    {
+        "city": "Ahmedabad",
+        "temperature": 39.02,
+        "weather": "clear sky",
+        "humidity": 16,
+        "lat": 23.033333,
+        "lon": 72.616669
+    },
+    {
+        "city": "San Francisco",
+        "temperature": 29.48,
+        "weather": "few clouds",
+        "humidity": 64,
+        "lat": 15.6287,
+        "lon": 120.436798
+    },
+    {
+        "city": "Los Angeles",
+        "temperature": 27.19,
+        "weather": "scattered clouds",
+        "humidity": 84,
+        "lat": 9.0125,
+        "lon": 125.608063
+    },
+    {
+        "city": "Tokyo",
+        "temperature": 14.63,
+        "weather": "broken clouds",
+        "humidity": 72,
+        "lat": 35.689499,
+        "lon": 139.691711
+    },
+    {
+        "city": "Osaka",
+        "temperature": 8.44,
+        "weather": "overcast clouds",
+        "humidity": 85,
+        "lat": 35.950001,
+        "lon": 137.266663
+    },
+    {
+        "city": "Singapore",
+        "temperature": 29.29,
+        "weather": "broken clouds",
+        "humidity": 80,
+        "lat": 1.28967,
+        "lon": 103.850067
+    },
+    {
+        "city": "Sydney",
+        "temperature": 16.09,
+        "weather": "few clouds",
+        "humidity": 90,
+        "lat": -33.867851,
+        "lon": 151.207321
+    },
+    {
+        "city": "Melbourne",
+        "temperature": 15.41,
+        "weather": "overcast clouds",
+        "humidity": 64,
+        "lat": -37.813999,
+        "lon": 144.963318
+    },
+    {
+        "city": "Liverpool",
+        "temperature": 16.56,
+        "weather": "clear sky",
+        "humidity": 87,
+        "lat": -33.900002,
+        "lon": 150.933334
+    },
+    {
+        "city": "Brisbane",
+        "temperature": 16.96,
+        "weather": "few clouds",
+        "humidity": 84,
+        "lat": -27.467939,
+        "lon": 153.028091
+    },
+    {
+        "city": "Manchester",
+        "temperature": 18.66,
+        "weather": "clear sky",
+        "humidity": 41,
+        "lat": 53.480949,
+        "lon": -2.23743
+    },
+    {
+        "city": "London",
+        "temperature": 16.4,
+        "weather": "clear sky",
+        "humidity": 37,
+        "lat": 51.50853,
+        "lon": -0.12574
+    },
+    {
+        "city": "Houston",
+        "temperature": 15.92,
+        "weather": "few clouds",
+        "humidity": 50,
+        "lat": 55.868591,
+        "lon": -4.55201
+    },
+    {
+        "city": "Birmingham",
+        "temperature": 15.43,
+        "weather": "clear sky",
+        "humidity": 47,
+        "lat": 52.481419,
+        "lon": -1.89983
+    },
+    {
+        "city": "Munich",
+        "temperature": 18.84,
+        "weather": "clear sky",
+        "humidity": 29,
+        "lat": 48.137428,
+        "lon": 11.57549
+    },
+    {
+        "city": "Hamburg",
+        "temperature": 9.96,
+        "weather": "overcast clouds",
+        "humidity": 77,
+        "lat": 53.549999,
+        "lon": 10.0
+    },
+    {
+        "city": "Berlin",
+        "temperature": 12.76,
+        "weather": "scattered clouds",
+        "humidity": 76,
+        "lat": 54.033329,
+        "lon": 10.45
+    },
+    {
+        "city": "Paris",
+        "temperature": 20.42,
+        "weather": "clear sky",
+        "humidity": 28,
+        "lat": 48.853401,
+        "lon": 2.3486
+    },
+    {
+        "city": "Lyon",
+        "temperature": 21.15,
+        "weather": "clear sky",
+        "humidity": 32,
+        "lat": 45.748459,
+        "lon": 4.84671
+    },
+    {
+        "city": "Chicago",
+        "temperature": 25.94,
+        "weather": "light rain",
+        "humidity": 83,
+        "lat": 17.799999,
+        "lon": -88.300003
+    },
+    {
+        "city": "Phoenix",
+        "temperature": 19.19,
+        "weather": "scattered clouds",
+        "humidity": 77,
+        "lat": 41.611149,
+        "lon": -87.634773
+    },
+    {
+        "city": "New York",
+        "temperature": 6.7,
+        "weather": "overcast clouds",
+        "humidity": 52,
+        "lat": 43.000351,
+        "lon": -75.499901
+    },
+    {
+        "city": "Toronto",
+        "temperature": 13.94,
+        "weather": "scattered clouds",
+        "humidity": 87,
+        "lat": 40.46423,
+        "lon": -80.600906
+    },
+    {
+        "city": "Vancouver",
+        "temperature": 5.31,
+        "weather": "clear sky",
+        "humidity": 93,
+        "lat": 45.638729,
+        "lon": -122.661491
+    }
+]

@@ -1,0 +1,2256 @@
+[
+    {
+        "location": "2 km WNW of The Geysers, CA",
+        "magnitude": 1.16,
+        "time": "2026-05-07 10:05:40",
+        "latitude": 38.7868347167969,
+        "longitude": -122.777000427246
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 0.71,
+        "time": "2026-05-07 10:05:21",
+        "latitude": 38.7908325195312,
+        "longitude": -122.779830932617
+    },
+    {
+        "location": "2 km W of The Geysers, CA",
+        "magnitude": 0.77,
+        "time": "2026-05-07 10:04:27",
+        "latitude": 38.7798347473145,
+        "longitude": -122.783996582031
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 1.71,
+        "time": "2026-05-07 10:02:09",
+        "latitude": 38.7970008850098,
+        "longitude": -122.777000427246
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 1.07,
+        "time": "2026-05-07 09:58:43",
+        "latitude": 38.7948341369629,
+        "longitude": -122.779663085938
+    },
+    {
+        "location": "2 km WNW of The Geysers, CA",
+        "magnitude": 0.79,
+        "time": "2026-05-07 09:57:46",
+        "latitude": 38.7868347167969,
+        "longitude": -122.779830932617
+    },
+    {
+        "location": "8 km N of Calistoga, CA",
+        "magnitude": 1.48,
+        "time": "2026-05-07 09:57:15",
+        "latitude": 38.6513328552246,
+        "longitude": -122.589500427246
+    },
+    {
+        "location": "4 km SSW of Anderson Springs, CA",
+        "magnitude": 2.68,
+        "time": "2026-05-07 09:54:40",
+        "latitude": 38.7401657104492,
+        "longitude": -122.708335876465
+    },
+    {
+        "location": "17 km SW of Susitna, Alaska",
+        "magnitude": 2.1,
+        "time": "2026-05-07 09:54:25",
+        "latitude": 61.429,
+        "longitude": -150.739
+    },
+    {
+        "location": "2 km NNW of The Geysers, CA",
+        "magnitude": 1.3,
+        "time": "2026-05-07 09:52:50",
+        "latitude": 38.7956657409668,
+        "longitude": -122.761497497559
+    },
+    {
+        "location": "2 km ENE of The Geysers, CA",
+        "magnitude": 0.77,
+        "time": "2026-05-07 09:52:34",
+        "latitude": 38.7859992980957,
+        "longitude": -122.738998413086
+    },
+    {
+        "location": "4 km SSW of Anderson Springs, CA",
+        "magnitude": 0.85,
+        "time": "2026-05-07 09:52:08",
+        "latitude": 38.7401657104492,
+        "longitude": -122.704666137695
+    },
+    {
+        "location": "3 km N of The Geysers, CA",
+        "magnitude": 0.35,
+        "time": "2026-05-07 09:52:02",
+        "latitude": 38.8051681518555,
+        "longitude": -122.75366973877
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 0.68,
+        "time": "2026-05-07 09:51:48",
+        "latitude": 38.7931671142578,
+        "longitude": -122.78150177002
+    },
+    {
+        "location": "4 km SSW of Anderson Springs, CA",
+        "magnitude": 1.42,
+        "time": "2026-05-07 09:51:19",
+        "latitude": 38.742000579834,
+        "longitude": -122.706001281738
+    },
+    {
+        "location": "3 km SW of Cobb, CA",
+        "magnitude": 2.08,
+        "time": "2026-05-07 09:49:56",
+        "latitude": 38.806999206543,
+        "longitude": -122.747665405273
+    },
+    {
+        "location": "3 km SW of Cobb, CA",
+        "magnitude": 2.26,
+        "time": "2026-05-07 09:49:50",
+        "latitude": 38.8074989318848,
+        "longitude": -122.748832702637
+    },
+    {
+        "location": "5 km NNW of The Geysers, CA",
+        "magnitude": 1.19,
+        "time": "2026-05-07 09:49:20",
+        "latitude": 38.8170013427734,
+        "longitude": -122.786834716797
+    },
+    {
+        "location": "22 km SW of Westmorland, CA",
+        "magnitude": 1.68,
+        "time": "2026-05-07 09:48:52",
+        "latitude": 32.9098333333333,
+        "longitude": -115.806666666667
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 0.71,
+        "time": "2026-05-07 09:48:31",
+        "latitude": 38.7943344116211,
+        "longitude": -122.779167175293
+    },
+    {
+        "location": "2 km WNW of The Geysers, CA",
+        "magnitude": 1.75,
+        "time": "2026-05-07 09:48:03",
+        "latitude": 38.7835006713867,
+        "longitude": -122.783332824707
+    },
+    {
+        "location": "3 km SW of Anderson Springs, CA",
+        "magnitude": 0.91,
+        "time": "2026-05-07 09:47:50",
+        "latitude": 38.759334564209,
+        "longitude": -122.719169616699
+    },
+    {
+        "location": "2 km WNW of The Geysers, CA",
+        "magnitude": 1.58,
+        "time": "2026-05-07 09:47:33",
+        "latitude": 38.7876663208008,
+        "longitude": -122.777168273926
+    },
+    {
+        "location": "4 km WSW of Healdsburg, CA",
+        "magnitude": 2.13,
+        "time": "2026-05-07 09:46:40",
+        "latitude": 38.6026649475098,
+        "longitude": -122.918502807617
+    },
+    {
+        "location": "5 km NNW of The Geysers, CA",
+        "magnitude": 1.75,
+        "time": "2026-05-07 09:45:32",
+        "latitude": 38.8151664733887,
+        "longitude": -122.784164428711
+    },
+    {
+        "location": "1 km NNE of The Geysers, CA",
+        "magnitude": 1.94,
+        "time": "2026-05-07 09:45:23",
+        "latitude": 38.7879981994629,
+        "longitude": -122.749336242676
+    },
+    {
+        "location": "4 km NNW of The Geysers, CA",
+        "magnitude": 2.51,
+        "time": "2026-05-07 09:44:27",
+        "latitude": 38.8120002746582,
+        "longitude": -122.777168273926
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 1.86,
+        "time": "2026-05-07 09:44:03",
+        "latitude": 38.7923316955566,
+        "longitude": -122.779502868652
+    },
+    {
+        "location": "2 km NW of The Geysers, CA",
+        "magnitude": 4.23,
+        "time": "2026-05-07 09:42:43",
+        "latitude": 38.7908325195312,
+        "longitude": -122.77433013916
+    },
+    {
+        "location": "86 km NW of Karluk, Alaska",
+        "magnitude": 1.3,
+        "time": "2026-05-07 09:42:15",
+        "latitude": 58.175,
+        "longitude": -155.374
+    },
+    {
+        "location": "85 km ENE of Ouzinkie, Alaska",
+        "magnitude": 2.2,
+        "time": "2026-05-07 09:37:24",
+        "latitude": 58.322,
+        "longitude": -151.268
+    },
+    {
+        "location": "19 km SSE of Silver Springs, Nevada",
+        "magnitude": 1.96,
+        "time": "2026-05-07 09:35:28",
+        "latitude": 39.2693,
+        "longitude": -119.1036
+    },
+    {
+        "location": "4 km ESE of Yorba Linda, CA",
+        "magnitude": 0.82,
+        "time": "2026-05-07 09:34:07",
+        "latitude": 33.8726666666667,
+        "longitude": -117.771666666667
+    },
+    {
+        "location": "27 km S of Susitna, Alaska",
+        "magnitude": 2.3,
+        "time": "2026-05-07 09:27:16",
+        "latitude": 61.298,
+        "longitude": -150.59
+    },
+    {
+        "location": "13 km SW of Puebla, B.C., MX",
+        "magnitude": 1.62,
+        "time": "2026-05-07 08:53:56",
+        "latitude": 32.478,
+        "longitude": -115.447
+    },
+    {
+        "location": "8 km NW of The Geysers, CA",
+        "magnitude": 0.76,
+        "time": "2026-05-07 08:53:30",
+        "latitude": 38.8339996337891,
+        "longitude": -122.817497253418
+    },
+    {
+        "location": "Kermadec Islands region",
+        "magnitude": 5.3,
+        "time": "2026-05-07 08:53:28",
+        "latitude": -27.3997,
+        "longitude": -176.6255
+    },
+    {
+        "location": "26 km W of Volcano, Hawaii",
+        "magnitude": 1.7,
+        "time": "2026-05-07 08:42:28",
+        "latitude": 19.4890003204346,
+        "longitude": -155.478164672852
+    },
+    {
+        "location": "7 km S of Hemet, CA",
+        "magnitude": 0.28,
+        "time": "2026-05-07 08:39:53",
+        "latitude": 33.6831666666667,
+        "longitude": -116.962833333333
+    },
+    {
+        "location": "12 km NE of Julian, CA",
+        "magnitude": 0.3,
+        "time": "2026-05-07 08:30:39",
+        "latitude": 33.1588333333333,
+        "longitude": -116.517833333333
+    },
+    {
+        "location": "11 km SSE of Gu\u00e1nica, Puerto Rico",
+        "magnitude": 2.64,
+        "time": "2026-05-07 08:25:26",
+        "latitude": 17.8666666666667,
+        "longitude": -66.8798333333333
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 0.37,
+        "time": "2026-05-07 08:24:32",
+        "latitude": 34.0091666666667,
+        "longitude": -117.215666666667
+    },
+    {
+        "location": "44 km NW of Toyah, Texas",
+        "magnitude": 1,
+        "time": "2026-05-07 08:18:10",
+        "latitude": 31.637,
+        "longitude": -104.076
+    },
+    {
+        "location": "17 km S of Volcano, Hawaii",
+        "magnitude": 2.25,
+        "time": "2026-05-07 08:15:09",
+        "latitude": 19.2883338928223,
+        "longitude": -155.210327148438
+    },
+    {
+        "location": "98 km SW of Puerto Madero, Mexico",
+        "magnitude": 4.7,
+        "time": "2026-05-07 08:13:51",
+        "latitude": 14.1541,
+        "longitude": -93.13
+    },
+    {
+        "location": "17 km SSW of Searles Valley, CA",
+        "magnitude": 0.5,
+        "time": "2026-05-07 07:43:26",
+        "latitude": 35.626,
+        "longitude": -117.474333333333
+    },
+    {
+        "location": "14 km ESE of Anza, CA",
+        "magnitude": 0.6,
+        "time": "2026-05-07 07:42:08",
+        "latitude": 33.4858333333333,
+        "longitude": -116.547666666667
+    },
+    {
+        "location": "8 km W of Cobb, CA",
+        "magnitude": 1.15,
+        "time": "2026-05-07 07:41:19",
+        "latitude": 38.8338317871094,
+        "longitude": -122.813667297363
+    },
+    {
+        "location": "10 km SSE of Waikoloa, Hawaii",
+        "magnitude": 1.76,
+        "time": "2026-05-07 07:34:39",
+        "latitude": 19.8455009460449,
+        "longitude": -155.767166137695
+    },
+    {
+        "location": "36 km WSW of Ivanof Bay, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-07 07:31:20",
+        "latitude": 55.737,
+        "longitude": -159.987
+    },
+    {
+        "location": "7 km WNW of Cobb, CA",
+        "magnitude": 1.16,
+        "time": "2026-05-07 07:28:36",
+        "latitude": 38.8354988098145,
+        "longitude": -122.806663513184
+    },
+    {
+        "location": "17 km E of Julian, CA",
+        "magnitude": 0.55,
+        "time": "2026-05-07 07:26:05",
+        "latitude": 33.0505,
+        "longitude": -116.422166666667
+    },
+    {
+        "location": "7 km SSW of Redlands, CA",
+        "magnitude": 2.13,
+        "time": "2026-05-07 07:10:57",
+        "latitude": 34.0016666666667,
+        "longitude": -117.211166666667
+    },
+    {
+        "location": "8 km SW of Johannesburg, CA",
+        "magnitude": 0.46,
+        "time": "2026-05-07 07:05:05",
+        "latitude": 35.314,
+        "longitude": -117.683666666667
+    },
+    {
+        "location": "29 km WNW of Central, Alaska",
+        "magnitude": 1.9,
+        "time": "2026-05-07 06:53:19",
+        "latitude": 65.691,
+        "longitude": -145.373
+    },
+    {
+        "location": "57 km WNW of Karluk, Alaska",
+        "magnitude": 1.3,
+        "time": "2026-05-07 06:49:43",
+        "latitude": 57.709,
+        "longitude": -155.385
+    },
+    {
+        "location": "12 km ENE of Carpinteria, CA",
+        "magnitude": 1.38,
+        "time": "2026-05-07 06:48:07",
+        "latitude": 34.4386666666667,
+        "longitude": -119.395666666667
+    },
+    {
+        "location": "2 km N of The Geysers, CA",
+        "magnitude": 1.06,
+        "time": "2026-05-07 06:41:34",
+        "latitude": 38.7933349609375,
+        "longitude": -122.758666992188
+    },
+    {
+        "location": "2 km N of The Geysers, CA",
+        "magnitude": 0.74,
+        "time": "2026-05-07 06:40:49",
+        "latitude": 38.7916679382324,
+        "longitude": -122.758666992188
+    },
+    {
+        "location": "23 km NNW of Borrego Springs, CA",
+        "magnitude": 1.09,
+        "time": "2026-05-07 06:40:18",
+        "latitude": 33.4576666666667,
+        "longitude": -116.423833333333
+    },
+    {
+        "location": "123 km S of McCarthy, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-07 06:40:17",
+        "latitude": 60.332,
+        "longitude": -143.091
+    },
+    {
+        "location": "88 km NNW of Tatsug\u014d, Japan",
+        "magnitude": 4.7,
+        "time": "2026-05-07 06:39:18",
+        "latitude": 29.2335,
+        "longitude": 129.4091
+    },
+    {
+        "location": "12 km WSW of Searles Valley, CA",
+        "magnitude": 0.43,
+        "time": "2026-05-07 06:38:02",
+        "latitude": 35.7313333333333,
+        "longitude": -117.534833333333
+    },
+    {
+        "location": "4 km NNW of San Leandro, CA",
+        "magnitude": 0.88,
+        "time": "2026-05-07 06:14:18",
+        "latitude": 37.7613334655762,
+        "longitude": -122.169334411621
+    },
+    {
+        "location": "16 km S of Lindsay, Texas",
+        "magnitude": 1.2,
+        "time": "2026-05-07 06:10:45",
+        "latitude": 31.221,
+        "longitude": -103.538
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 0.7,
+        "time": "2026-05-07 06:05:59",
+        "latitude": 34.0025,
+        "longitude": -117.211833333333
+    },
+    {
+        "location": "11 km SE of Volcano, Hawaii",
+        "magnitude": 1.72,
+        "time": "2026-05-07 06:04:58",
+        "latitude": 19.3600006103516,
+        "longitude": -155.174163818359
+    },
+    {
+        "location": "25 km N of Tehachapi, CA",
+        "magnitude": 1.36,
+        "time": "2026-05-07 05:49:29",
+        "latitude": 35.3543333333333,
+        "longitude": -118.502833333333
+    },
+    {
+        "location": "14 km S of Fern Forest, Hawaii",
+        "magnitude": 1.95,
+        "time": "2026-05-07 05:49:08",
+        "latitude": 19.33766746521,
+        "longitude": -155.113998413086
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 1.1,
+        "time": "2026-05-07 05:48:15",
+        "latitude": 38.7985000610352,
+        "longitude": -122.780502319336
+    },
+    {
+        "location": "62 km WSW of Cantwell, Alaska",
+        "magnitude": 1.4,
+        "time": "2026-05-07 05:36:56",
+        "latitude": 63.236,
+        "longitude": -150.15
+    },
+    {
+        "location": "8 km SW of Anza, CA",
+        "magnitude": 0.6,
+        "time": "2026-05-07 05:27:13",
+        "latitude": 33.5123333333333,
+        "longitude": -116.742666666667
+    },
+    {
+        "location": "8 km SW of Anza, CA",
+        "magnitude": 0.59,
+        "time": "2026-05-07 05:27:13",
+        "latitude": 33.5166666666667,
+        "longitude": -116.740666666667
+    },
+    {
+        "location": "1 km W of Concrete, Washington",
+        "magnitude": 2.8379271030426025,
+        "time": "2026-05-07 05:20:07",
+        "latitude": 48.53633499145508,
+        "longitude": -121.77283477783203
+    },
+    {
+        "location": "8 km NW of The Geysers, CA",
+        "magnitude": 0.36,
+        "time": "2026-05-07 05:15:24",
+        "latitude": 38.835334777832,
+        "longitude": -122.820167541504
+    },
+    {
+        "location": "3 km NNW of The Geysers, CA",
+        "magnitude": 0.77,
+        "time": "2026-05-07 05:14:12",
+        "latitude": 38.7991676330566,
+        "longitude": -122.772163391113
+    },
+    {
+        "location": "13 km NNE of Karluk, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-07 05:10:00",
+        "latitude": 57.68,
+        "longitude": -154.35
+    },
+    {
+        "location": "101 km E of McCarthy, Alaska",
+        "magnitude": 1.3,
+        "time": "2026-05-07 04:57:13",
+        "latitude": 61.339,
+        "longitude": -141.041
+    },
+    {
+        "location": "2 km NW of Palomar Observatory, CA",
+        "magnitude": 1.73,
+        "time": "2026-05-07 04:45:44",
+        "latitude": 33.3706666666667,
+        "longitude": -116.878333333333
+    },
+    {
+        "location": "18 km ESE of Anza, CA",
+        "magnitude": 0.62,
+        "time": "2026-05-07 04:43:26",
+        "latitude": 33.51,
+        "longitude": -116.488
+    },
+    {
+        "location": "3 km WSW of Gu\u00e1nica, Puerto Rico",
+        "magnitude": 2.34,
+        "time": "2026-05-07 04:26:40",
+        "latitude": 17.9646666666667,
+        "longitude": -66.9383333333333
+    },
+    {
+        "location": "5 km W of The Geysers, CA",
+        "magnitude": 0.5,
+        "time": "2026-05-07 04:24:14",
+        "latitude": 38.7859992980957,
+        "longitude": -122.817337036133
+    },
+    {
+        "location": "43 km NW of Toyah, Texas",
+        "magnitude": 1.6,
+        "time": "2026-05-07 04:12:48",
+        "latitude": 31.618,
+        "longitude": -104.091
+    },
+    {
+        "location": "128 km SE of McCarthy, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-07 04:09:24",
+        "latitude": 60.725,
+        "longitude": -141.051
+    },
+    {
+        "location": "7 km NW of The Geysers, CA",
+        "magnitude": 0.4,
+        "time": "2026-05-07 04:06:01",
+        "latitude": 38.8235015869141,
+        "longitude": -122.813003540039
+    },
+    {
+        "location": "3 km NNW of The Geysers, CA",
+        "magnitude": 0.82,
+        "time": "2026-05-07 04:03:18",
+        "latitude": 38.8001670837402,
+        "longitude": -122.771667480469
+    },
+    {
+        "location": "3 km WNW of Anderson Springs, CA",
+        "magnitude": 1.11,
+        "time": "2026-05-07 04:02:25",
+        "latitude": 38.7878341674805,
+        "longitude": -122.723335266113
+    },
+    {
+        "location": "18 km SSE of Fern Forest, Hawaii",
+        "magnitude": 1.8,
+        "time": "2026-05-07 04:00:46",
+        "latitude": 19.3021659851074,
+        "longitude": -155.098495483398
+    },
+    {
+        "location": "3 km NW of Anderson Springs, CA",
+        "magnitude": 3.12,
+        "time": "2026-05-07 03:56:31",
+        "latitude": 38.7934989929199,
+        "longitude": -122.713836669922
+    },
+    {
+        "location": "3 km S of Cobb, CA",
+        "magnitude": 1.04,
+        "time": "2026-05-07 03:55:23",
+        "latitude": 38.7944984436035,
+        "longitude": -122.72200012207
+    },
+    {
+        "location": "7 km ENE of Calumet, Oklahoma",
+        "magnitude": 2.13,
+        "time": "2026-05-07 03:54:11",
+        "latitude": 35.62066667,
+        "longitude": -98.035
+    },
+    {
+        "location": "5 km NNE of Houston, Alaska",
+        "magnitude": 1.6,
+        "time": "2026-05-07 03:39:09",
+        "latitude": 61.676,
+        "longitude": -149.778
+    },
+    {
+        "location": "22 km NE of San Lucas, CA",
+        "magnitude": 1.51,
+        "time": "2026-05-07 03:32:44",
+        "latitude": 36.2900009155273,
+        "longitude": -120.873664855957
+    },
+    {
+        "location": "16 km S of Fern Forest, Hawaii",
+        "magnitude": 1.78,
+        "time": "2026-05-07 03:30:09",
+        "latitude": 19.3226661682129,
+        "longitude": -155.108337402344
+    },
+    {
+        "location": "59 km S of Whites City, New Mexico",
+        "magnitude": 1.7,
+        "time": "2026-05-07 03:29:04",
+        "latitude": 31.636,
+        "longitude": -104.347
+    },
+    {
+        "location": "95 km SE of McCarthy, Alaska",
+        "magnitude": 1.3,
+        "time": "2026-05-07 03:28:27",
+        "latitude": 60.769,
+        "longitude": -141.794
+    },
+    {
+        "location": "9 km WNW of The Geysers, CA",
+        "magnitude": 1.07,
+        "time": "2026-05-07 03:17:49",
+        "latitude": 38.8219985961914,
+        "longitude": -122.846000671387
+    },
+    {
+        "location": "0 km E of Anaheim, CA",
+        "magnitude": 1.6,
+        "time": "2026-05-07 03:08:25",
+        "latitude": 33.8356666666667,
+        "longitude": -117.8845
+    },
+    {
+        "location": "77 km WSW of Akhiok, Alaska",
+        "magnitude": 1.8,
+        "time": "2026-05-07 02:54:03",
+        "latitude": 56.786,
+        "longitude": -155.405
+    },
+    {
+        "location": "10 km SE of Pearsall, Texas",
+        "magnitude": 2,
+        "time": "2026-05-07 02:50:39",
+        "latitude": 28.837,
+        "longitude": -99.011
+    },
+    {
+        "location": "22 km NNE of Kernville, CA",
+        "magnitude": 1.02,
+        "time": "2026-05-07 02:45:00",
+        "latitude": 35.9488333333333,
+        "longitude": -118.369166666667
+    },
+    {
+        "location": "40 km WSW of Ackerly, Texas",
+        "magnitude": 1.4,
+        "time": "2026-05-07 02:23:21",
+        "latitude": 32.389,
+        "longitude": -102.111
+    },
+    {
+        "location": "19 km W of Volcano, Hawaii",
+        "magnitude": 1.75,
+        "time": "2026-05-07 02:09:54",
+        "latitude": 19.4288330078125,
+        "longitude": -155.420333862305
+    },
+    {
+        "location": "78 km NE of Tonopah, Nevada",
+        "magnitude": 1.78,
+        "time": "2026-05-07 02:05:39",
+        "latitude": 38.4682,
+        "longitude": -116.495
+    },
+    {
+        "location": "10 km WNW of The Geysers, CA",
+        "magnitude": 0.95,
+        "time": "2026-05-07 02:03:55",
+        "latitude": 38.8216667175293,
+        "longitude": -122.852500915527
+    },
+    {
+        "location": "10 km NW of The Geysers, CA",
+        "magnitude": 0.72,
+        "time": "2026-05-07 02:02:16",
+        "latitude": 38.8376655578613,
+        "longitude": -122.835502624512
+    },
+    {
+        "location": "3 km SSE of Midland, Texas",
+        "magnitude": 0.8,
+        "time": "2026-05-07 01:53:49",
+        "latitude": 31.966,
+        "longitude": -102.057
+    },
+    {
+        "location": "10 km NW of The Geysers, CA",
+        "magnitude": 0.62,
+        "time": "2026-05-07 01:48:42",
+        "latitude": 38.8380012512207,
+        "longitude": -122.835670471191
+    },
+    {
+        "location": "10 km NW of The Geysers, CA",
+        "magnitude": 1.54,
+        "time": "2026-05-07 01:48:35",
+        "latitude": 38.8381652832031,
+        "longitude": -122.836166381836
+    },
+    {
+        "location": "77 km NE of Tonopah, Nevada",
+        "magnitude": 1.78,
+        "time": "2026-05-07 01:45:09",
+        "latitude": 38.4705,
+        "longitude": -116.5081
+    },
+    {
+        "location": "22 km SSE of Naalehu, Hawaii",
+        "magnitude": 2.31,
+        "time": "2026-05-07 01:33:33",
+        "latitude": 18.8803333333333,
+        "longitude": -155.496666666667
+    },
+    {
+        "location": "43 km SE of Pedro Bay, Alaska",
+        "magnitude": 1.4,
+        "time": "2026-05-07 01:24:22",
+        "latitude": 59.543,
+        "longitude": -153.512
+    },
+    {
+        "location": "151 km WNW of Panguna, Papua New Guinea",
+        "magnitude": 5.1,
+        "time": "2026-05-07 01:23:05",
+        "latitude": -5.7445,
+        "longitude": 154.2368
+    },
+    {
+        "location": "12 km W of Niland, CA",
+        "magnitude": 1.19,
+        "time": "2026-05-07 01:23:02",
+        "latitude": 33.2586666666667,
+        "longitude": -115.646166666667
+    },
+    {
+        "location": "12 km NNE of Cruz Bay, U.S. Virgin Islands",
+        "magnitude": 3.46,
+        "time": "2026-05-07 01:18:43",
+        "latitude": 18.4383,
+        "longitude": -64.7433
+    },
+    {
+        "location": "16 km SSE of Sunrise, Alaska",
+        "magnitude": 2,
+        "time": "2026-05-07 01:13:17",
+        "latitude": 60.752,
+        "longitude": -149.282
+    },
+    {
+        "location": "17 km SE of Kasilof, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-07 01:12:01",
+        "latitude": 60.229,
+        "longitude": -151.036
+    },
+    {
+        "location": "21 km NW of Ivanof Bay, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-07 01:05:10",
+        "latitude": 56.012,
+        "longitude": -159.762
+    },
+    {
+        "location": "39 km WSW of Ackerly, Texas",
+        "magnitude": 0.6,
+        "time": "2026-05-07 01:03:52",
+        "latitude": 32.387,
+        "longitude": -102.106
+    },
+    {
+        "location": "45 km NW of Toyah, Texas",
+        "magnitude": 1.6,
+        "time": "2026-05-07 01:01:53",
+        "latitude": 31.622,
+        "longitude": -104.107
+    },
+    {
+        "location": "11 km SSE of Bombay Beach, CA",
+        "magnitude": 0.99,
+        "time": "2026-05-07 00:58:44",
+        "latitude": 33.2643333333333,
+        "longitude": -115.667833333333
+    },
+    {
+        "location": "14 km SSE of Susitna North, Alaska",
+        "magnitude": 1.8,
+        "time": "2026-05-07 00:45:53",
+        "latitude": 62.036,
+        "longitude": -149.781
+    },
+    {
+        "location": "16 km NE of Milford, Utah",
+        "magnitude": 2.25,
+        "time": "2026-05-07 00:43:33",
+        "latitude": 38.5171661376953,
+        "longitude": -112.907165527344
+    },
+    {
+        "location": "23 km ESE of Christine, Texas",
+        "magnitude": 1.5,
+        "time": "2026-05-07 00:43:29",
+        "latitude": 28.679,
+        "longitude": -98.297
+    },
+    {
+        "location": "10 km WNW of The Geysers, CA",
+        "magnitude": 0.36,
+        "time": "2026-05-07 00:36:12",
+        "latitude": 38.8269996643066,
+        "longitude": -122.852668762207
+    },
+    {
+        "location": "102 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "magnitude": 3.57,
+        "time": "2026-05-07 00:35:48",
+        "latitude": 19.2575,
+        "longitude": -64.8158
+    },
+    {
+        "location": "9 km WNW of The Geysers, CA",
+        "magnitude": 0.75,
+        "time": "2026-05-07 00:29:04",
+        "latitude": 38.8211669921875,
+        "longitude": -122.843002319336
+    },
+    {
+        "location": "14 km E of Fox River, Alaska",
+        "magnitude": 2.3,
+        "time": "2026-05-07 00:20:13",
+        "latitude": 59.842,
+        "longitude": -150.709
+    },
+    {
+        "location": "13 km ESE of P\u0101hala, Hawaii",
+        "magnitude": 1.86,
+        "time": "2026-05-07 00:16:54",
+        "latitude": 19.1398334503174,
+        "longitude": -155.367660522461
+    },
+    {
+        "location": "16 km W of Healy, Alaska",
+        "magnitude": 2.2,
+        "time": "2026-05-07 00:16:36",
+        "latitude": 63.841,
+        "longitude": -149.307
+    },
+    {
+        "location": "19 km SSW of Searles Valley, CA",
+        "magnitude": 0.87,
+        "time": "2026-05-07 00:07:59",
+        "latitude": 35.6011666666667,
+        "longitude": -117.448666666667
+    },
+    {
+        "location": "5 km ESE of El Sobrante, CA",
+        "magnitude": 0.68,
+        "time": "2026-05-06 23:36:05",
+        "latitude": 37.964168548584,
+        "longitude": -122.237167358398
+    },
+    {
+        "location": "14 km S of Tres Pinos, CA",
+        "magnitude": 2.28,
+        "time": "2026-05-06 23:26:41",
+        "latitude": 36.6655006408691,
+        "longitude": -121.324165344238
+    },
+    {
+        "location": "1 km E of Pinole, CA",
+        "magnitude": 1.9,
+        "time": "2026-05-06 23:20:39",
+        "latitude": 38.0028343200684,
+        "longitude": -122.283332824707
+    },
+    {
+        "location": "56 km W of Mentone, Texas",
+        "magnitude": 1.3,
+        "time": "2026-05-06 23:09:59",
+        "latitude": 31.69,
+        "longitude": -104.193
+    },
+    {
+        "location": "17 km SE of Silver Springs, Nevada",
+        "magnitude": 1.71,
+        "time": "2026-05-06 23:08:55",
+        "latitude": 39.3105,
+        "longitude": -119.0744
+    },
+    {
+        "location": "8 km NW of The Geysers, CA",
+        "magnitude": 1.06,
+        "time": "2026-05-06 23:08:45",
+        "latitude": 38.8328323364258,
+        "longitude": -122.814834594727
+    },
+    {
+        "location": "34 km N of Chickaloon, Alaska",
+        "magnitude": 2.8,
+        "time": "2026-05-06 23:03:52",
+        "latitude": 62.106,
+        "longitude": -148.379
+    },
+    {
+        "location": "68 km W of Ollag\u00fce, Chile",
+        "magnitude": 4.3,
+        "time": "2026-05-06 23:02:20",
+        "latitude": -21.1542,
+        "longitude": -68.9134
+    },
+    {
+        "location": "64 km WNW of Karluk, Alaska",
+        "magnitude": 1.8,
+        "time": "2026-05-06 23:01:55",
+        "latitude": 57.812,
+        "longitude": -155.441
+    },
+    {
+        "location": "87 km NNW of Karluk, Alaska",
+        "magnitude": 0.6,
+        "time": "2026-05-06 22:54:06",
+        "latitude": 58.258,
+        "longitude": -155.15
+    },
+    {
+        "location": "57 km S of Whites City, New Mexico",
+        "magnitude": 2,
+        "time": "2026-05-06 22:52:19",
+        "latitude": 31.659,
+        "longitude": -104.464
+    },
+    {
+        "location": "69 km WNW of Tyonek, Alaska",
+        "magnitude": 0.55,
+        "time": "2026-05-06 22:46:40",
+        "latitude": 61.288,
+        "longitude": -152.350833333333
+    },
+    {
+        "location": "130 km NW of Yakutat, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-06 22:44:58",
+        "latitude": 60.222,
+        "longitude": -141.634
+    },
+    {
+        "location": "11 km E of Angwin, CA",
+        "magnitude": 1.95,
+        "time": "2026-05-06 22:40:30",
+        "latitude": 38.5838317871094,
+        "longitude": -122.324996948242
+    },
+    {
+        "location": "17 km SW of Toms Place, CA",
+        "magnitude": 1.5,
+        "time": "2026-05-06 22:34:38",
+        "latitude": 37.4435005187988,
+        "longitude": -118.806167602539
+    },
+    {
+        "location": "7 km SE of Loma Linda, CA",
+        "magnitude": 0.99,
+        "time": "2026-05-06 22:27:05",
+        "latitude": 34.0023333333333,
+        "longitude": -117.217166666667
+    },
+    {
+        "location": "2 km SW of Port Ludlow, Washington",
+        "magnitude": 0.86,
+        "time": "2026-05-06 22:27:00",
+        "latitude": 47.909333333333336,
+        "longitude": -122.71083333333333
+    },
+    {
+        "location": "4 km SW of Gu\u00e1nica, Puerto Rico",
+        "magnitude": 2.2,
+        "time": "2026-05-06 22:22:40",
+        "latitude": 17.937,
+        "longitude": -66.9345
+    },
+    {
+        "location": "19 km ENE of Talkeetna, Alaska",
+        "magnitude": 1.2,
+        "time": "2026-05-06 22:20:46",
+        "latitude": 62.361,
+        "longitude": -149.74
+    },
+    {
+        "location": "21 km ESE of Little Lake, CA",
+        "magnitude": 0.77,
+        "time": "2026-05-06 22:18:16",
+        "latitude": 35.8713333333333,
+        "longitude": -117.685333333333
+    },
+    {
+        "location": "7 km NW of The Geysers, CA",
+        "magnitude": 1.49,
+        "time": "2026-05-06 22:11:14",
+        "latitude": 38.8141670227051,
+        "longitude": -122.818000793457
+    },
+    {
+        "location": "25 km NE of La Troncal, Ecuador",
+        "magnitude": 4.6,
+        "time": "2026-05-06 22:06:49",
+        "latitude": -2.2614,
+        "longitude": -79.181
+    },
+    {
+        "location": "42 km NW of Toyah, Texas",
+        "magnitude": 1.6,
+        "time": "2026-05-06 22:01:52",
+        "latitude": 31.545,
+        "longitude": -104.147
+    },
+    {
+        "location": "3 km NNW of Farmers Loop, Alaska",
+        "magnitude": 1.2,
+        "time": "2026-05-06 21:52:17",
+        "latitude": 64.938,
+        "longitude": -147.725
+    },
+    {
+        "location": "6 km WNW of Westbrook, Texas",
+        "magnitude": 2.3,
+        "time": "2026-05-06 21:48:48",
+        "latitude": 32.371,
+        "longitude": -101.085
+    },
+    {
+        "location": "8 km WNW of Cobb, CA",
+        "magnitude": 1.3,
+        "time": "2026-05-06 21:47:33",
+        "latitude": 38.8571662902832,
+        "longitude": -122.806335449219
+    },
+    {
+        "location": "5 km WNW of Cobb, CA",
+        "magnitude": 1.03,
+        "time": "2026-05-06 21:43:00",
+        "latitude": 38.839168548584,
+        "longitude": -122.78133392334
+    },
+    {
+        "location": "6 km ENE of Falls City, Texas",
+        "magnitude": 2.1,
+        "time": "2026-05-06 21:34:32",
+        "latitude": 28.998,
+        "longitude": -97.95
+    },
+    {
+        "location": "17 km SW of Esperanza, Puerto Rico",
+        "magnitude": 2.93,
+        "time": "2026-05-06 21:34:16",
+        "latitude": 17.99,
+        "longitude": -65.59
+    },
+    {
+        "location": "10 km W of Midland, Texas",
+        "magnitude": 1.8,
+        "time": "2026-05-06 21:23:19",
+        "latitude": 31.991,
+        "longitude": -102.187
+    },
+    {
+        "location": "85 km NNW of Karluk, Alaska",
+        "magnitude": -0.16,
+        "time": "2026-05-06 21:19:53",
+        "latitude": 58.2775,
+        "longitude": -154.988166666667
+    },
+    {
+        "location": "29 km SSW of Alamo, Nevada",
+        "magnitude": 1.75,
+        "time": "2026-05-06 21:09:16",
+        "latitude": 37.1343,
+        "longitude": -115.3225
+    },
+    {
+        "location": "50 km WSW of Nikolski, Alaska",
+        "magnitude": 2.48,
+        "time": "2026-05-06 21:03:53",
+        "latitude": 52.6931666666667,
+        "longitude": -169.483666666667
+    },
+    {
+        "location": "15 km NE of Little Lake, CA",
+        "magnitude": 1.2918178006614,
+        "time": "2026-05-06 21:03:03",
+        "latitude": 36.0258331298828,
+        "longitude": -117.776168823242
+    },
+    {
+        "location": "38 km NNW of Toyah, Texas",
+        "magnitude": 1.6,
+        "time": "2026-05-06 20:53:49",
+        "latitude": 31.616,
+        "longitude": -103.998
+    },
+    {
+        "location": "11 km SW of Ridgemark, CA",
+        "magnitude": 1.44,
+        "time": "2026-05-06 20:46:25",
+        "latitude": 36.7401657104492,
+        "longitude": -121.453666687012
+    },
+    {
+        "location": "147 km E of McCarthy, Alaska",
+        "magnitude": 2.5,
+        "time": "2026-05-06 20:36:41",
+        "latitude": 61.4158,
+        "longitude": -140.15
+    },
+    {
+        "location": "4 km NE of Susitna, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-06 20:32:10",
+        "latitude": 61.568,
+        "longitude": -150.443
+    },
+    {
+        "location": "7 km NW of The Geysers, CA",
+        "magnitude": 0.26,
+        "time": "2026-05-06 20:28:24",
+        "latitude": 38.8165016174316,
+        "longitude": -122.816833496094
+    },
+    {
+        "location": "52 km WNW of Valdez, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-06 20:21:18",
+        "latitude": 61.369,
+        "longitude": -147.185
+    },
+    {
+        "location": "7 km NNE of Cabazon, CA",
+        "magnitude": 0.91,
+        "time": "2026-05-06 20:21:03",
+        "latitude": 33.9746666666667,
+        "longitude": -116.744333333333
+    },
+    {
+        "location": "14 km S of Volcano, Hawaii",
+        "magnitude": 1.89,
+        "time": "2026-05-06 20:15:22",
+        "latitude": 19.3113327026367,
+        "longitude": -155.225494384766
+    },
+    {
+        "location": "61 km ENE of Pedro Bay, Alaska",
+        "magnitude": -0.53,
+        "time": "2026-05-06 20:10:37",
+        "latitude": 60.0081666666667,
+        "longitude": -153.094166666667
+    },
+    {
+        "location": "65 km ENE of Pedro Bay, Alaska",
+        "magnitude": -0.79,
+        "time": "2026-05-06 20:06:32",
+        "latitude": 60.0281666666667,
+        "longitude": -153.046
+    },
+    {
+        "location": "12 km W of Kalaoa, Hawaii",
+        "magnitude": 2.31,
+        "time": "2026-05-06 20:02:10",
+        "latitude": 19.749,
+        "longitude": -156.102333333333
+    },
+    {
+        "location": "5 km WNW of The Geysers, CA",
+        "magnitude": 0.75,
+        "time": "2026-05-06 20:00:03",
+        "latitude": 38.7983322143555,
+        "longitude": -122.808502197266
+    },
+    {
+        "location": "61 km NNE of Chickaloon, Alaska",
+        "magnitude": 1.2,
+        "time": "2026-05-06 19:48:39",
+        "latitude": 62.338,
+        "longitude": -148.23
+    },
+    {
+        "location": "3 km NNW of The Geysers, CA",
+        "magnitude": 0.76,
+        "time": "2026-05-06 19:43:27",
+        "latitude": 38.8061676025391,
+        "longitude": -122.771003723145
+    },
+    {
+        "location": "37 km SSE of Whites City, New Mexico",
+        "magnitude": 1.3,
+        "time": "2026-05-06 19:37:25",
+        "latitude": 31.847,
+        "longitude": -104.272
+    },
+    {
+        "location": "6 km NNW of Lakeside, CA",
+        "magnitude": 1.31,
+        "time": "2026-05-06 19:27:41",
+        "latitude": 32.9048333333333,
+        "longitude": -116.948166666667
+    },
+    {
+        "location": "13 km S of Tres Pinos, CA",
+        "magnitude": 2.38,
+        "time": "2026-05-06 19:26:01",
+        "latitude": 36.6726684570312,
+        "longitude": -121.325500488281
+    },
+    {
+        "location": "40 km W of Stevens Village, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-06 19:20:20",
+        "latitude": 66.054,
+        "longitude": -149.966
+    },
+    {
+        "location": "South Sandwich Islands region",
+        "magnitude": 5,
+        "time": "2026-05-06 19:19:17",
+        "latitude": -59.5634,
+        "longitude": -24.0873
+    },
+    {
+        "location": "3 km NW of The Geysers, CA",
+        "magnitude": 1.63,
+        "time": "2026-05-06 19:17:18",
+        "latitude": 38.8021659851074,
+        "longitude": -122.779167175293
+    },
+    {
+        "location": "48 km S of Santa Gertrudis Miramar, Mexico",
+        "magnitude": 4.4,
+        "time": "2026-05-06 19:10:12",
+        "latitude": 15.6249,
+        "longitude": -95.3854
+    },
+    {
+        "location": "26 km W of Pelican, Alaska",
+        "magnitude": 2.8,
+        "time": "2026-05-06 19:05:01",
+        "latitude": 57.926,
+        "longitude": -136.666
+    },
+    {
+        "location": "32 km ENE of Malaga, New Mexico",
+        "magnitude": 3,
+        "time": "2026-05-06 18:55:52",
+        "latitude": 32.2977,
+        "longitude": -103.737
+    },
+    {
+        "location": "14 km SSE of Santa Ynez, CA",
+        "magnitude": 1.09,
+        "time": "2026-05-06 18:49:59",
+        "latitude": 34.4948333333333,
+        "longitude": -120.026
+    },
+    {
+        "location": "2 km ESE of The Geysers, CA",
+        "magnitude": 1.29,
+        "time": "2026-05-06 18:46:42",
+        "latitude": 38.7738342285156,
+        "longitude": -122.738670349121
+    },
+    {
+        "location": "6 km SW of Napa, CA",
+        "magnitude": 1.18,
+        "time": "2026-05-06 18:39:12",
+        "latitude": 38.2536659240723,
+        "longitude": -122.324333190918
+    },
+    {
+        "location": "8 km SSE of Ponce, Puerto Rico",
+        "magnitude": 2.3,
+        "time": "2026-05-06 18:39:03",
+        "latitude": 17.943,
+        "longitude": -66.5881666666667
+    },
+    {
+        "location": "47 km NW of Tatitlek, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-06 18:36:19",
+        "latitude": 61.166,
+        "longitude": -147.312
+    },
+    {
+        "location": "14 km NE of Coachella, CA",
+        "magnitude": 0.9,
+        "time": "2026-05-06 18:18:32",
+        "latitude": 33.7623333333333,
+        "longitude": -116.0635
+    },
+    {
+        "location": "18 km NNE of Indio, CA",
+        "magnitude": 0.49,
+        "time": "2026-05-06 18:17:14",
+        "latitude": 33.877,
+        "longitude": -116.154
+    },
+    {
+        "location": "24 km WNW of Ivanof Bay, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-06 18:11:05",
+        "latitude": 55.992,
+        "longitude": -159.843
+    },
+    {
+        "location": "6 km SE of Loma Linda, CA",
+        "magnitude": 0.93,
+        "time": "2026-05-06 18:06:08",
+        "latitude": 34.007,
+        "longitude": -117.216333333333
+    },
+    {
+        "location": "16 km NE of Little Lake, CA",
+        "magnitude": 0.78,
+        "time": "2026-05-06 18:01:53",
+        "latitude": 36.027,
+        "longitude": -117.774333333333
+    },
+    {
+        "location": "61 km W of Tyonek, Alaska",
+        "magnitude": 0.24,
+        "time": "2026-05-06 18:01:05",
+        "latitude": 61.13,
+        "longitude": -152.277
+    },
+    {
+        "location": "1 km W of Sattley, California",
+        "magnitude": 1.56,
+        "time": "2026-05-06 17:59:09",
+        "latitude": 39.6145,
+        "longitude": -120.4411
+    },
+    {
+        "location": "6 km SE of Loma Linda, CA",
+        "magnitude": 1,
+        "time": "2026-05-06 17:45:49",
+        "latitude": 34.008,
+        "longitude": -117.2165
+    },
+    {
+        "location": "3 km SSW of Palomar Observatory, CA",
+        "magnitude": 1.06,
+        "time": "2026-05-06 17:45:23",
+        "latitude": 33.3288333333333,
+        "longitude": -116.878333333333
+    },
+    {
+        "location": "5 km SSW of Anacortes, Washington",
+        "magnitude": 1.98,
+        "time": "2026-05-06 17:45:04",
+        "latitude": 48.4725,
+        "longitude": -122.64483333333334
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 1.73,
+        "time": "2026-05-06 17:42:42",
+        "latitude": 34.0033333333333,
+        "longitude": -117.21
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 1.95,
+        "time": "2026-05-06 17:39:40",
+        "latitude": 34.0025,
+        "longitude": -117.210333333333
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 1.02,
+        "time": "2026-05-06 17:38:03",
+        "latitude": 34.005,
+        "longitude": -117.207833333333
+    },
+    {
+        "location": "1 km NNW of The Geysers, CA",
+        "magnitude": 0.8,
+        "time": "2026-05-06 17:34:48",
+        "latitude": 38.785831451416,
+        "longitude": -122.762336730957
+    },
+    {
+        "location": "6 km SE of Loma Linda, CA",
+        "magnitude": 1.03,
+        "time": "2026-05-06 17:33:24",
+        "latitude": 34.004,
+        "longitude": -117.2155
+    },
+    {
+        "location": "20 km WNW of Ivanof Bay, Alaska",
+        "magnitude": 2,
+        "time": "2026-05-06 17:26:43",
+        "latitude": 55.946,
+        "longitude": -159.802
+    },
+    {
+        "location": "9 km SE of Gardendale, Texas",
+        "magnitude": 0.9,
+        "time": "2026-05-06 17:25:19",
+        "latitude": 31.97,
+        "longitude": -102.305
+    },
+    {
+        "location": "4 km W of Cobb, CA",
+        "magnitude": 0.3,
+        "time": "2026-05-06 17:24:44",
+        "latitude": 38.8250007629395,
+        "longitude": -122.766502380371
+    },
+    {
+        "location": "10 km E of Happy Valley, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-06 17:24:19",
+        "latitude": 59.933,
+        "longitude": -151.552
+    },
+    {
+        "location": "5 km SSW of Redlands, CA",
+        "magnitude": 1.18,
+        "time": "2026-05-06 17:17:45",
+        "latitude": 34.0135,
+        "longitude": -117.209
+    },
+    {
+        "location": "8 km N of Philomath, Oregon",
+        "magnitude": 1.1300000000000001,
+        "time": "2026-05-06 17:10:05",
+        "latitude": 44.617666666666665,
+        "longitude": -123.38016666666667
+    },
+    {
+        "location": "8 km SE of Gardendale, Texas",
+        "magnitude": 1.6,
+        "time": "2026-05-06 17:08:33",
+        "latitude": 31.969,
+        "longitude": -102.308
+    },
+    {
+        "location": "6 km NW of The Geysers, CA",
+        "magnitude": 0.93,
+        "time": "2026-05-06 17:07:33",
+        "latitude": 38.8139991760254,
+        "longitude": -122.811500549316
+    },
+    {
+        "location": "18 km ESE of Little Lake, CA",
+        "magnitude": 1.06,
+        "time": "2026-05-06 17:06:37",
+        "latitude": 35.8886666666667,
+        "longitude": -117.710833333333
+    },
+    {
+        "location": "23 km NNE of Isabela, Puerto Rico",
+        "magnitude": 2.56,
+        "time": "2026-05-06 16:52:34",
+        "latitude": 18.6841666666667,
+        "longitude": -66.9155
+    },
+    {
+        "location": "7 km SSW of Redlands, CA",
+        "magnitude": 1.9,
+        "time": "2026-05-06 16:47:15",
+        "latitude": 34.0018333333333,
+        "longitude": -117.2135
+    },
+    {
+        "location": "11 km NNW of Healdsburg, CA",
+        "magnitude": 1.96,
+        "time": "2026-05-06 16:46:39",
+        "latitude": 38.7036666870117,
+        "longitude": -122.91633605957
+    },
+    {
+        "location": "15 km S of Volcano, Hawaii",
+        "magnitude": 1,
+        "time": "2026-05-06 16:46:20",
+        "latitude": 19.309,
+        "longitude": -155.2065
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 3.14,
+        "time": "2026-05-06 16:45:15",
+        "latitude": 34.0025,
+        "longitude": -117.211333333333
+    },
+    {
+        "location": "9 km NW of Waldport, Oregon",
+        "magnitude": 1.56,
+        "time": "2026-05-06 16:40:03",
+        "latitude": 44.477333333333334,
+        "longitude": -124.17
+    },
+    {
+        "location": "17 km SE of Pearsall, Texas",
+        "magnitude": 1.8,
+        "time": "2026-05-06 16:34:39",
+        "latitude": 28.8,
+        "longitude": -98.949
+    },
+    {
+        "location": "6 km N of P\u0101hala, Hawaii",
+        "magnitude": 1.56,
+        "time": "2026-05-06 16:30:51",
+        "latitude": 19.258,
+        "longitude": -155.476833333333
+    },
+    {
+        "location": "59 km S of Whites City, New Mexico",
+        "magnitude": 1.5,
+        "time": "2026-05-06 16:26:06",
+        "latitude": 31.64,
+        "longitude": -104.445
+    },
+    {
+        "location": "23 km NW of Three Rivers, Texas",
+        "magnitude": 1.4,
+        "time": "2026-05-06 16:24:34",
+        "latitude": 28.637,
+        "longitude": -98.317
+    },
+    {
+        "location": "38 km NNW of Toyah, Texas",
+        "magnitude": 1.5,
+        "time": "2026-05-06 16:20:25",
+        "latitude": 31.613,
+        "longitude": -103.996
+    },
+    {
+        "location": "29 km S of Minto, Alaska",
+        "magnitude": 1.1,
+        "time": "2026-05-06 16:18:07",
+        "latitude": 64.882,
+        "longitude": -149.316
+    },
+    {
+        "location": "7 km S of Unalaska, Alaska",
+        "magnitude": -0.1,
+        "time": "2026-05-06 16:17:24",
+        "latitude": 53.8101666666667,
+        "longitude": -166.520666666667
+    },
+    {
+        "location": "1 km N of Lluveras, Puerto Rico",
+        "magnitude": 1.96,
+        "time": "2026-05-06 16:15:18",
+        "latitude": 18.051,
+        "longitude": -66.9036666666667
+    },
+    {
+        "location": "4 km SSE of Home Gardens, CA",
+        "magnitude": 1.6,
+        "time": "2026-05-06 15:57:21",
+        "latitude": 33.8458333333333,
+        "longitude": -117.495166666667
+    },
+    {
+        "location": "6 km WNW of Cobb, CA",
+        "magnitude": 1.26,
+        "time": "2026-05-06 15:56:34",
+        "latitude": 38.8363342285156,
+        "longitude": -122.789329528809
+    },
+    {
+        "location": "7 km SSE of Unalaska, Alaska",
+        "magnitude": 0.6,
+        "time": "2026-05-06 15:56:05",
+        "latitude": 53.8163333333333,
+        "longitude": -166.486333333333
+    },
+    {
+        "location": "7 km NW of The Geysers, CA",
+        "magnitude": 0.57,
+        "time": "2026-05-06 15:49:00",
+        "latitude": 38.8216667175293,
+        "longitude": -122.807998657227
+    },
+    {
+        "location": "12 km SE of Pearsall, Texas",
+        "magnitude": 2,
+        "time": "2026-05-06 15:48:38",
+        "latitude": 28.803,
+        "longitude": -99.025
+    },
+    {
+        "location": "7 km SSE of Unalaska, Alaska",
+        "magnitude": 0.61,
+        "time": "2026-05-06 15:39:40",
+        "latitude": 53.8133333333333,
+        "longitude": -166.486666666667
+    },
+    {
+        "location": "5 km NW of The Geysers, CA",
+        "magnitude": 1.02,
+        "time": "2026-05-06 15:37:52",
+        "latitude": 38.8079986572266,
+        "longitude": -122.793502807617
+    },
+    {
+        "location": "25 km ENE of Baganga, Philippines",
+        "magnitude": 5.5,
+        "time": "2026-05-06 15:35:46",
+        "latitude": 7.6333,
+        "longitude": 126.7818
+    },
+    {
+        "location": "8 km ENE of Calumet, Oklahoma",
+        "magnitude": 2.23,
+        "time": "2026-05-06 15:20:48",
+        "latitude": 35.62333333,
+        "longitude": -98.02933333
+    },
+    {
+        "location": "8 km ENE of Calumet, Oklahoma",
+        "magnitude": 1.82,
+        "time": "2026-05-06 15:20:41",
+        "latitude": 35.62783333,
+        "longitude": -98.02783333
+    },
+    {
+        "location": "14 km NE of Coachella, CA",
+        "magnitude": 0.96,
+        "time": "2026-05-06 15:20:05",
+        "latitude": 33.762,
+        "longitude": -116.061333333333
+    },
+    {
+        "location": "111 km NNW of Hayuliang, India",
+        "magnitude": 4.5,
+        "time": "2026-05-06 15:17:34",
+        "latitude": 28.9344,
+        "longitude": 95.9538
+    },
+    {
+        "location": "79 km WNW of Beluga, Alaska",
+        "magnitude": -0.3,
+        "time": "2026-05-06 15:07:34",
+        "latitude": 61.3726666666667,
+        "longitude": -152.474333333333
+    },
+    {
+        "location": "98 km NNW of Tobelo, Indonesia",
+        "magnitude": 4.4,
+        "time": "2026-05-06 14:56:40",
+        "latitude": 2.4921,
+        "longitude": 127.5616
+    },
+    {
+        "location": "5 km E of Skwentna, Alaska",
+        "magnitude": 1.9,
+        "time": "2026-05-06 14:49:58",
+        "latitude": 61.99,
+        "longitude": -151.3
+    },
+    {
+        "location": "54 km NE of Kenny Lake, Alaska",
+        "magnitude": -0.01,
+        "time": "2026-05-06 14:49:10",
+        "latitude": 62.0071666666667,
+        "longitude": -144.123
+    },
+    {
+        "location": "9 km SE of Gardendale, Texas",
+        "magnitude": 0.7,
+        "time": "2026-05-06 14:48:06",
+        "latitude": 31.96,
+        "longitude": -102.306
+    },
+    {
+        "location": "55 km NE of Kenny Lake, Alaska",
+        "magnitude": 0.19,
+        "time": "2026-05-06 14:48:01",
+        "latitude": 62.0295,
+        "longitude": -144.121333333333
+    },
+    {
+        "location": "14 km ENE of Ridgecrest, CA",
+        "magnitude": 0.84,
+        "time": "2026-05-06 14:46:01",
+        "latitude": 35.6765,
+        "longitude": -117.534
+    },
+    {
+        "location": "55 km NE of Kenny Lake, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-06 14:44:12",
+        "latitude": 62.048,
+        "longitude": -144.158
+    },
+    {
+        "location": "57 km NE of Kenny Lake, Alaska",
+        "magnitude": 0.32,
+        "time": "2026-05-06 14:43:10",
+        "latitude": 62.0395,
+        "longitude": -144.1035
+    },
+    {
+        "location": "2 km SW of Anderson Springs, CA",
+        "magnitude": 0.99,
+        "time": "2026-05-06 14:27:47",
+        "latitude": 38.7613334655762,
+        "longitude": -122.71199798584
+    },
+    {
+        "location": "23 km E of Herlong, California",
+        "magnitude": 2.14,
+        "time": "2026-05-06 14:20:20",
+        "latitude": 40.1518,
+        "longitude": -119.8644
+    },
+    {
+        "location": "235 km ESE of Attu Station, Alaska",
+        "magnitude": 5.8,
+        "time": "2026-05-06 14:15:32",
+        "latitude": 52.2595,
+        "longitude": 176.518
+    },
+    {
+        "location": "6 km SSE of Unalaska, Alaska",
+        "magnitude": -0.15,
+        "time": "2026-05-06 14:12:32",
+        "latitude": 53.8133333333333,
+        "longitude": -166.508
+    },
+    {
+        "location": "4 km W of Cobb, CA",
+        "magnitude": 0.86,
+        "time": "2026-05-06 14:09:49",
+        "latitude": 38.8264999389648,
+        "longitude": -122.764503479004
+    },
+    {
+        "location": "177 km E of Atka, Alaska",
+        "magnitude": 3.4,
+        "time": "2026-05-06 14:08:09",
+        "latitude": 52.174,
+        "longitude": -171.603
+    },
+    {
+        "location": "230 km ESE of Attu Station, Alaska",
+        "magnitude": 4.3,
+        "time": "2026-05-06 14:06:37",
+        "latitude": 52.2398,
+        "longitude": 176.4365
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 0.83,
+        "time": "2026-05-06 13:53:11",
+        "latitude": 34.009,
+        "longitude": -117.211333333333
+    },
+    {
+        "location": "33 km W of Hebgen Lake Estates, Montana",
+        "magnitude": 1.34,
+        "time": "2026-05-06 13:51:49",
+        "latitude": 44.7906666666667,
+        "longitude": -111.610166666667
+    },
+    {
+        "location": "32 km W of Hebgen Lake Estates, Montana",
+        "magnitude": 0.72,
+        "time": "2026-05-06 13:43:17",
+        "latitude": 44.7966666666667,
+        "longitude": -111.603833333333
+    },
+    {
+        "location": "19 km SE of Silver Springs, Nevada",
+        "magnitude": 2.61,
+        "time": "2026-05-06 13:36:23",
+        "latitude": 39.2785,
+        "longitude": -119.086
+    },
+    {
+        "location": "64 km ENE of Pedro Bay, Alaska",
+        "magnitude": -0.48,
+        "time": "2026-05-06 13:31:48",
+        "latitude": 60.036,
+        "longitude": -153.065833333333
+    },
+    {
+        "location": "78 km NE of Tonopah, Nevada",
+        "magnitude": 1.65,
+        "time": "2026-05-06 13:29:34",
+        "latitude": 38.4785,
+        "longitude": -116.4959
+    },
+    {
+        "location": "7 km NNE of Lake Henshaw, CA",
+        "magnitude": 0.46,
+        "time": "2026-05-06 13:29:09",
+        "latitude": 33.297,
+        "longitude": -116.736
+    },
+    {
+        "location": "30 km WNW of Ivanof Bay, Alaska",
+        "magnitude": 2,
+        "time": "2026-05-06 13:26:47",
+        "latitude": 56.037,
+        "longitude": -159.915
+    },
+    {
+        "location": "38 km NE of Paxson, Alaska",
+        "magnitude": 1.5,
+        "time": "2026-05-06 13:23:31",
+        "latitude": 63.347,
+        "longitude": -145.103
+    },
+    {
+        "location": "17 km ENE of Borrego Springs, CA",
+        "magnitude": 1.05295821874685,
+        "time": "2026-05-06 13:19:21",
+        "latitude": 33.3388328552246,
+        "longitude": -116.225997924805
+    },
+    {
+        "location": "99 km WNW of Yakutat, Alaska",
+        "magnitude": 2.4,
+        "time": "2026-05-06 13:16:20",
+        "latitude": 60.013,
+        "longitude": -141.239
+    },
+    {
+        "location": "35 km NNE of Lima, Montana",
+        "magnitude": 1.31,
+        "time": "2026-05-06 13:13:06",
+        "latitude": 44.9271666666667,
+        "longitude": -112.409666666667
+    },
+    {
+        "location": "73 km ENE of Ouzinkie, Alaska",
+        "magnitude": 2,
+        "time": "2026-05-06 12:57:27",
+        "latitude": 58.249,
+        "longitude": -151.427
+    },
+    {
+        "location": "113 km W of Port-Vila, Vanuatu",
+        "magnitude": 4.8,
+        "time": "2026-05-06 12:55:50",
+        "latitude": -17.8553,
+        "longitude": 167.2462
+    },
+    {
+        "location": "11 km ENE of Ninilchik, Alaska",
+        "magnitude": 2.6,
+        "time": "2026-05-06 12:53:39",
+        "latitude": 60.07,
+        "longitude": -151.474
+    },
+    {
+        "location": "65 km WNW of Beluga, Alaska",
+        "magnitude": -0.65,
+        "time": "2026-05-06 12:48:46",
+        "latitude": 61.3388333333333,
+        "longitude": -152.237
+    },
+    {
+        "location": "23 km ESE of Denali National Park, Alaska",
+        "magnitude": 1.7,
+        "time": "2026-05-06 12:43:45",
+        "latitude": 63.462,
+        "longitude": -151.286
+    },
+    {
+        "location": "83 km NE of Tonopah, Nevada",
+        "magnitude": 1.73,
+        "time": "2026-05-06 12:31:37",
+        "latitude": 38.5084,
+        "longitude": -116.4574
+    },
+    {
+        "location": "2 km SE of Redlands, CA",
+        "magnitude": 0.63,
+        "time": "2026-05-06 12:23:41",
+        "latitude": 34.045,
+        "longitude": -117.165333333333
+    },
+    {
+        "location": "11 km W of Anza, CA",
+        "magnitude": 0.34,
+        "time": "2026-05-06 12:23:04",
+        "latitude": 33.568,
+        "longitude": -116.791666666667
+    },
+    {
+        "location": "8 km SE of Gardendale, Texas",
+        "magnitude": 0.9,
+        "time": "2026-05-06 12:19:28",
+        "latitude": 31.962,
+        "longitude": -102.319
+    },
+    {
+        "location": "13 km NE of Little Lake, CA",
+        "magnitude": 0.48,
+        "time": "2026-05-06 12:10:47",
+        "latitude": 36.0203333333333,
+        "longitude": -117.8045
+    },
+    {
+        "location": "44 km SE of Denali National Park, Alaska",
+        "magnitude": 1.8,
+        "time": "2026-05-06 12:10:14",
+        "latitude": 63.227,
+        "longitude": -151.173
+    },
+    {
+        "location": "29 km NW of Susitna, Alaska",
+        "magnitude": 1.3,
+        "time": "2026-05-06 12:08:34",
+        "latitude": 61.76,
+        "longitude": -150.818
+    },
+    {
+        "location": "74 km ENE of Tonopah, Nevada",
+        "magnitude": 1.8,
+        "time": "2026-05-06 12:03:50",
+        "latitude": 38.4292,
+        "longitude": -116.5149
+    },
+    {
+        "location": "62 km ESE of Egegik, Alaska",
+        "magnitude": 0.02,
+        "time": "2026-05-06 11:57:05",
+        "latitude": 58.108,
+        "longitude": -156.332833333333
+    },
+    {
+        "location": "5 km WNW of Knik, Alaska",
+        "magnitude": 1.9,
+        "time": "2026-05-06 11:53:54",
+        "latitude": 61.483,
+        "longitude": -149.811
+    },
+    {
+        "location": "5 km SSE of Banning, CA",
+        "magnitude": 0.67,
+        "time": "2026-05-06 11:50:01",
+        "latitude": 33.8818333333333,
+        "longitude": -116.856833333333
+    },
+    {
+        "location": "5 km SSE of Banning, CA",
+        "magnitude": 0.55,
+        "time": "2026-05-06 11:49:27",
+        "latitude": 33.8831666666667,
+        "longitude": -116.858666666667
+    },
+    {
+        "location": "south of the Kermadec Islands",
+        "magnitude": 5.6,
+        "time": "2026-05-06 11:46:48",
+        "latitude": -32.1671,
+        "longitude": -177.9339
+    },
+    {
+        "location": "42 km SE of Denali National Park, Alaska",
+        "magnitude": 1.9,
+        "time": "2026-05-06 11:41:41",
+        "latitude": 63.261,
+        "longitude": -151.15
+    },
+    {
+        "location": "151 km NNE of Cruz Bay, U.S. Virgin Islands",
+        "magnitude": 3.42,
+        "time": "2026-05-06 11:41:34",
+        "latitude": 19.6571666666667,
+        "longitude": -64.4435
+    },
+    {
+        "location": "7 km SSE of Unalaska, Alaska",
+        "magnitude": 0.98,
+        "time": "2026-05-06 11:41:10",
+        "latitude": 53.8155,
+        "longitude": -166.492333333333
+    },
+    {
+        "location": "38 km NNW of Petersville, Alaska",
+        "magnitude": 1.8,
+        "time": "2026-05-06 11:40:09",
+        "latitude": 62.826,
+        "longitude": -150.966
+    },
+    {
+        "location": "6 km S of Unalaska, Alaska",
+        "magnitude": 0.07,
+        "time": "2026-05-06 11:37:49",
+        "latitude": 53.813,
+        "longitude": -166.516166666667
+    },
+    {
+        "location": "16 km NE of Milford, Utah",
+        "magnitude": 0.97,
+        "time": "2026-05-06 11:35:12",
+        "latitude": 38.5098333333333,
+        "longitude": -112.8935
+    },
+    {
+        "location": "86 km NW of Karluk, Alaska",
+        "magnitude": 1.1,
+        "time": "2026-05-06 11:34:18",
+        "latitude": 58.165,
+        "longitude": -155.401
+    },
+    {
+        "location": "90 km WSW of Coquimbo, Chile",
+        "magnitude": 4.7,
+        "time": "2026-05-06 11:31:43",
+        "latitude": -30.1791,
+        "longitude": -72.2383
+    },
+    {
+        "location": "11 km SE of Cami\u00f1a, Chile",
+        "magnitude": 4.3,
+        "time": "2026-05-06 11:25:51",
+        "latitude": -19.3947,
+        "longitude": -69.3584
+    },
+    {
+        "location": "34 km WSW of Tatitlek, Alaska",
+        "magnitude": 3.2,
+        "time": "2026-05-06 11:25:38",
+        "latitude": 60.749,
+        "longitude": -147.263
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 0.7,
+        "time": "2026-05-06 11:24:40",
+        "latitude": 34.0091666666667,
+        "longitude": -117.209166666667
+    },
+    {
+        "location": "7 km NE of Imperial, CA",
+        "magnitude": 1.38,
+        "time": "2026-05-06 11:24:28",
+        "latitude": 32.885,
+        "longitude": -115.509166666667
+    },
+    {
+        "location": "9 km E of Happy Valley, Alaska",
+        "magnitude": 1.8,
+        "time": "2026-05-06 11:21:52",
+        "latitude": 59.936,
+        "longitude": -151.557
+    },
+    {
+        "location": "14 km SE of Anza, CA",
+        "magnitude": 0.44,
+        "time": "2026-05-06 11:20:35",
+        "latitude": 33.4598333333333,
+        "longitude": -116.5785
+    },
+    {
+        "location": "19 km SSE of Silver Springs, Nevada",
+        "magnitude": 2.61,
+        "time": "2026-05-06 11:17:21",
+        "latitude": 39.2704,
+        "longitude": -119.1016
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 0.97,
+        "time": "2026-05-06 11:16:59",
+        "latitude": 34.0088333333333,
+        "longitude": -117.207666666667
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 1.5,
+        "time": "2026-05-06 11:13:25",
+        "latitude": 34.0065,
+        "longitude": -117.206166666667
+    },
+    {
+        "location": "1 km WNW of Eden Roc, Hawaii",
+        "magnitude": 1.46,
+        "time": "2026-05-06 11:12:55",
+        "latitude": 19.4965,
+        "longitude": -155.1135
+    },
+    {
+        "location": "15 km SSW of Searles Valley, CA",
+        "magnitude": 1.56,
+        "time": "2026-05-06 11:12:54",
+        "latitude": 35.6365,
+        "longitude": -117.460333333333
+    },
+    {
+        "location": "6 km SSW of Redlands, CA",
+        "magnitude": 1.55,
+        "time": "2026-05-06 11:09:04",
+        "latitude": 34.0066666666667,
+        "longitude": -117.206
+    },
+    {
+        "location": "35 km WSW of Mentone, Texas",
+        "magnitude": 1.5,
+        "time": "2026-05-06 11:08:15",
+        "latitude": 31.625,
+        "longitude": -103.959
+    },
+    {
+        "location": "7 km WNW of Cobb, CA",
+        "magnitude": 1.75,
+        "time": "2026-05-06 10:56:12",
+        "latitude": 38.8386650085449,
+        "longitude": -122.80583190918
+    },
+    {
+        "location": "15 km E of Silver Springs, Nevada",
+        "magnitude": 2.56,
+        "time": "2026-05-06 10:52:59",
+        "latitude": 39.3996,
+        "longitude": -119.0466
+    },
+    {
+        "location": "35 km WSW of Ackerly, Texas",
+        "magnitude": 0.3,
+        "time": "2026-05-06 10:44:47",
+        "latitude": 32.399,
+        "longitude": -102.06
+    },
+    {
+        "location": "15 km NE of Milford, Utah",
+        "magnitude": 1.61,
+        "time": "2026-05-06 10:44:20",
+        "latitude": 38.5056666666667,
+        "longitude": -112.899
+    },
+    {
+        "location": "5 km ESE of San Jos\u00e9 del Potrero, Honduras",
+        "magnitude": 4.4,
+        "time": "2026-05-06 10:42:41",
+        "latitude": 14.8148,
+        "longitude": -87.2398
+    },
+    {
+        "location": "72 km WNW of Beluga, Alaska",
+        "magnitude": -0.58,
+        "time": "2026-05-06 10:41:44",
+        "latitude": 61.3613333333333,
+        "longitude": -152.3595
+    },
+    {
+        "location": "15 km NE of Milford, Utah",
+        "magnitude": 1.77,
+        "time": "2026-05-06 10:27:16",
+        "latitude": 38.5108333333333,
+        "longitude": -112.899833333333
+    },
+    {
+        "location": "15 km NE of Milford, Utah",
+        "magnitude": 1.67,
+        "time": "2026-05-06 10:22:04",
+        "latitude": 38.5013333333333,
+        "longitude": -112.890666666667
+    },
+    {
+        "location": "43 km NE of Lake Minchumina, Alaska",
+        "magnitude": 1.9,
+        "time": "2026-05-06 10:17:31",
+        "latitude": 64.102,
+        "longitude": -151.583
+    },
+    {
+        "location": "0 km N of The Geysers, CA",
+        "magnitude": 1.08,
+        "time": "2026-05-06 10:15:05",
+        "latitude": 38.7786674499512,
+        "longitude": -122.75666809082
+    },
+    {
+        "location": "0 km WNW of The Geysers, CA",
+        "magnitude": 1.9,
+        "time": "2026-05-06 10:14:53",
+        "latitude": 38.7783317565918,
+        "longitude": -122.759002685547
+    },
+    {
+        "location": "9 km NE of Morgan Hill, CA",
+        "magnitude": 1.28,
+        "time": "2026-05-06 10:10:13",
+        "latitude": 37.2006683349609,
+        "longitude": -121.59400177002
+    }
+]

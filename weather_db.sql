@@ -1,0 +1,7 @@
+ALTER TABLE weather ADD COLUMN lat FLOAT;
+ALTER TABLE weather ADD COLUMN lon FLOAT;
+
+TRUNCATE TABLE weather;
+
+SELECT * FROM public.weather
+ORDER BY id ASC 

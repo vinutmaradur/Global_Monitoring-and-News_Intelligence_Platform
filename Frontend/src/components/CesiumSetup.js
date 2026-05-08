@@ -1,0 +1,5 @@
+import * as Cesium from "cesium";
+
+Cesium.Ion.defaultAccessToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI0ZTdkZTRhZi0yZjUyLTRiYmItYjdhNS1iMjA4ZTRjNTMwMWEiLCJpZCI6NDIzMTAzLCJpYXQiOjE3NzcwMzkyMDB9.m_ycNWeTwtH7BBEgj8Joz_v58mEnK5Bn1Gt7JjbYo8o";
+
+export default Cesium;
